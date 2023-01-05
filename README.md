@@ -30,4 +30,8 @@ wandb의 sweep 기능을 이용해 최적의 하이퍼 파라미터를 찾아주
 - kobert (70GB Korean text dataset and 42000 lower-cased subwords are used)
 - reference : https://github.com/kiyoungkim1/LMkor
 
-## 
+## run
+- 코랩에서 run파일 실행
+
+## add
+- main.py의 config로 hyper parameter 지정
